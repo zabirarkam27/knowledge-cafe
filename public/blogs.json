@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "cover_photo": "https://images.pexels.com/photos/1181270/pexels-photo-1181270.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "author": "John Doe",
+    "author_img": "https://randomuser.me/api/portraits/men/10.jpg",
+    "posted_date": "2025-01-03",
+    "reading_time": 5,
+    "hashtags": ["#coding", "#webdevelopment", "#javascript"]
+  },
+  {
+    "id": 2,
+    "cover_photo": "https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1709827001/catalog/1320602112260694016/wwpxudbyxfzcoz5yehzg.webp",
+    "author": "Alice Smith",
+    "author_img": "https://randomuser.me/api/portraits/women/15.jpg",
+    "posted_date": "2025-01-02",
+    "reading_time": 7,
+    "hashtags": ["#frontend", "#css", "#html"]
+  },
+  {
+    "id": 3,
+    "cover_photo": "https://static.youthop.com/uploads/sites/2/2018/11/coding.jpeg",
+    "author": "David Brown",
+    "author_img": "https://randomuser.me/api/portraits/men/20.jpg",
+    "posted_date": "2025-01-01",
+    "reading_time": 10,
+    "hashtags": ["#reactjs", "#webdev", "#programming"]
+  },
+  {
+    "id": 4,
+    "cover_photo": "https://media.licdn.com/dms/image/v2/D5612AQHORgcdtsTCJg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1727441993462?e=2147483647&v=beta&t=7oYGIrBr0BoPubM9l5nllmjhKXtHSbvRCnG6ya3elE0",
+    "author": "Emma Wilson",
+    "author_img": "https://randomuser.me/api/portraits/women/4.jpg",
+    "posted_date": "2024-12-30",
+    "reading_time": 6,
+    "hashtags": ["#python", "#datascience", "#machinelearning"]
+  },
+  {
+    "id": 5,
+    "cover_photo": "https://www.pexels.com/photo/developer-programming-using-laptop-1181270/",
+    "author": "Michael Johnson",
+    "author_img": "https://randomuser.me/api/portraits/men/32.jpg",
+    "posted_date": "2024-12-29",
+    "reading_time": 8,
+    "hashtags": ["#backend", "#nodejs", "#database"]
+  }
+]
